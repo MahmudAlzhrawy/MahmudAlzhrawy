@@ -18,23 +18,56 @@
 
 ---
 
-### 📌 Featured Projects
+---
 
-#### 🌆 [City Guide](https://graduation-project-nu-rosy.vercel.app)
+## 📌 Featured Projects
+
+### 🔷 Frontend Projects
+
+#### 🌆 City Guide
 > A smart platform that provides essential services across cities, with a beautiful UI and interactive browsing experience.
 
-- **Tech Stack:** TypeScript, Next.js, Tailwind CSS, Context API
-- [🔗 GitHub Repo](https://github.com/MahmudAlzhrawy/graduation-project) • [🚀 Live Demo](https://graduation-project-nu-rosy.vercel.app)
+- 🛠️ **Stack:** TypeScript, Next.js, Tailwind CSS, Context API  
+- 🔗 [GitHub](https://github.com/MahmudAlzhrawy/graduation-project) • [🚀 Live Demo](https://graduation-project-nu-rosy.vercel.app)
 
 ---
 
-#### 👥 [Team Portfolio – Codeverse](https://team-portfolio-mauve.vercel.app/)
+#### 👥 Team Portfolio – Codeverse
 > A modern portfolio site representing my freelance team “Codeverse” with a sleek, responsive design.
 
-- **Tech Stack:** TypeScript, Next.js, Tailwind CSS
-- [🔗 GitHub Repo](https://github.com/MahmudAlzhrawy/team_portfolio) • [🚀 Live Demo](https://team-portfolio-mauve.vercel.app/)
+- 🛠️ **Stack:** TypeScript, Next.js, Tailwind CSS  
+- 🔗 [GitHub](https://github.com/MahmudAlzhrawy/team_portfolio) • [🚀 Live Demo](https://team-portfolio-mauve.vercel.app/)
 
 ---
+
+### 🔺 Full Stack / E-commerce
+
+#### 🛒 E-Commerce Store
+> A modern online store application with Redux Toolkit for state management and a clean UI.
+
+- 🛠️ **Stack:** React, Redux Toolkit, JavaScript, Tailwind CSS  
+- 🔗 [GitHub](https://github.com/MahmudAlzhrawy/E-commerce-react) • [🚀 Live Demo](https://e-commerce-react-5ced2.web.app/)
+
+---
+
+### 🔶 Admin Dashboards
+
+#### 🍽️ Restaurant Admin Panel – Graduation Project
+> A dashboard for managing restaurant data (meals, orders, users) for the graduation system.
+
+- 🛠️ **Stack:** Next.js, Tailwind CSS, TypeScript  
+- 🔗 [GitHub](https://github.com/MahmudAlzhrawy/graduation_restaurant_admin)
+
+---
+
+#### 🛠️ General Admin Panel – Graduation Project
+> A centralized admin system to manage all users and components across the graduation platform.
+
+- 🛠️ **Stack:** Next.js, Tailwind CSS, TypeScript  
+- 🔗 [GitHub](https://github.com/MahmudAlzhrawy/general-admin)
+
+---
+
 
 ### 🛠️ Skills
 
