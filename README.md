@@ -24,7 +24,7 @@
 
 ### 🔷 Frontend Projects
 
-#### 🌆 City Guide
+#### 🌆 City Guide  
 > A smart platform that provides essential services across cities, with a beautiful UI and interactive browsing experience.
 
 - 🛠️ **Stack:** TypeScript, Next.js, Tailwind CSS, Context API  
@@ -32,7 +32,7 @@
 
 ---
 
-#### 👥 Team Portfolio – Codeverse
+#### 👥 Team Portfolio – Codeverse  
 > A modern portfolio site representing my freelance team “Codeverse” with a sleek, responsive design.
 
 - 🛠️ **Stack:** TypeScript, Next.js, Tailwind CSS  
@@ -40,9 +40,17 @@
 
 ---
 
+#### 🌐 Portfolio v1 – Personal Website  
+> My personal portfolio website showcasing my work, skills, and contact information in a clean, elegant layout.
+
+- 🛠️ **Stack:** TypeScript, Next.js, Tailwind CSS  
+- 🔗 [GitHub](https://github.com/MahmudAlzhrawy/Portfolio_v1) • [🚀 Live Demo](https://mahmudnagiportfolio.vercel.app/)
+
+---
+
 ### 🔺 Full Stack / E-commerce
 
-#### 🛒 E-Commerce Store
+#### 🛒 E-Commerce Store  
 > A modern online store application with Redux Toolkit for state management and a clean UI.
 
 - 🛠️ **Stack:** React, Redux Toolkit, JavaScript, Tailwind CSS  
@@ -52,7 +60,7 @@
 
 ### 🔶 Admin Dashboards
 
-#### 🍽️ Restaurant Admin Panel – Graduation Project
+#### 🍽️ Restaurant Admin Panel – Graduation Project  
 > A dashboard for managing restaurant data (meals, orders, users) for the graduation system.
 
 - 🛠️ **Stack:** Next.js, Tailwind CSS, TypeScript  
@@ -60,14 +68,11 @@
 
 ---
 
-#### 🛠️ General Admin Panel – Graduation Project
+#### 🛠️ General Admin Panel – Graduation Project  
 > A centralized admin system to manage all users and components across the graduation platform.
 
 - 🛠️ **Stack:** Next.js, Tailwind CSS, TypeScript  
 - 🔗 [GitHub](https://github.com/MahmudAlzhrawy/general-admin)
-
----
-
 
 ### 🛠️ Skills
 
