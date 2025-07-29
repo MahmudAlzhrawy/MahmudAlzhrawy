@@ -44,7 +44,7 @@
 > My personal portfolio website showcasing my work, skills, and contact information in a clean, elegant layout.
 
 - 🛠️ **Stack:** TypeScript, Next.js, Tailwind CSS  
-- 🔗 [GitHub](https://github.com/MahmudAlzhrawy/Portfolio_v1) • [🚀 Live Demo](https://mahmudnagiportfolio.vercel.app/)
+- 🔗 [GitHub](https://github.com/MahmudAlzhrawy/Portfolio_v1) • [🚀 Live Demo](https://mahmud-alzhrawy.vercel.app/)
 
 ---
 
